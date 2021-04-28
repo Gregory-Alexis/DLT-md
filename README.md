@@ -25,7 +25,7 @@ Nick Szabo, Hall Finney
 ```
 ```6
 Non, car il faudrait recalculer le bloc dans lequel se trouve tout les blocks dans lequel elle se trouve.
-Ce qui voudrait dire que si toute le fois le bloc qui contient les informations de la transaction est le dernier,
-il faudrait un effort énorme pour y parvenir.
+Ce qui voudrait dire que si toute le fois le bloc qui contient les informations de la transaction,
+est le dernier, il faudrait un effort énorme pour y parvenir.
 ```
 
