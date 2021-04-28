@@ -16,7 +16,7 @@ fonctionner de manière coordonnée
 ```3
 Nick Szabo est l'inventeur du smart contract.
 
-Hall Finney a reçu la première transaction bitcoin de la part du créateur du bitcoin, Satoshi Nakamoto.
+Hall Finney a été l'un des premiers utilisateurs du bitrcoin et a reçu la première transaction de la part du créateur du bitcoin, Satoshi Nakamoto.
 ```
 
 ```4
