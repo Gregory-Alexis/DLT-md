@@ -1,7 +1,7 @@
 # DLT-md
 
 ```1
-Pour gérer le cas ou le nombre de block est impair dans un merkle root, il faut combiner la dernière empreinte avec elle même.<br/>
+Pour gérer le cas ou le nombre de block est impair dans un merkle root, il faut combiner la dernière empreinte avec elle même.  
 Ex: Hopop = h(Hop + Hop)
 Il ne restera donc qu'une seule empreinte qui sera appelé dans la racine de Merkle
 ```
